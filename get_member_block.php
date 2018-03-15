@@ -2,7 +2,8 @@
 ini_set('max_execution_time', 0);
 //token người không bị chặn (có thể là thành viên nhóm bình thường)
 $token   = "EAAAA";
-//token bạn
+//EAAAAUaZA8jlABAKS8iNRvZCDLqlS15R11euErmMPpR3oCEjXJNBAvI3BMg2SZBlcVGOS20MKNho02VGNqLsNieoyPZAfDOz8eyAwxdy5hivUNB2lg2YIXaYZBA4P1Yu8zBcYBoi7MnZC8ytBnozamE7QdjCuMp9cYRdGGv05RusCgfVCMqD3be
+token bạn
 $token_admin = "EAAA";
 //điền ID nhóm
 $id_nhom = "364997627165697";
